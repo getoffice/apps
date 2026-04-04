@@ -379,7 +379,7 @@ function renderStore() {
           <span class="hero-eyebrow">QUICK OFFICE SOFTWARE</span>
           <h1>The Microsoft<br>Get Started
 Office Suite</h1>
-          <p class="hero-sub">Authentic licences for the world's most trusted productivity software — Word, Excel, PowerPoint, Teams, and more. Instant download, genuine keys.</p>
+          <p class="hero-sub">Instant Delivery for any app for the world's most trusted productivity software — Word, Excel, PowerPoint, Teams, and more. Instant download, genuine keys.</p>
           <div class="hero-btns">
             <button class="btn-primary" onclick="document.querySelector('.product-grid').scrollIntoView({behavior:'smooth'})">Browse Products</button>
             <button class="btn-outline" onclick="filterBy('Bundles')">View Bundles →</button>
